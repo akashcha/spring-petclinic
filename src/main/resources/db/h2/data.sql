@@ -19,7 +19,7 @@ INSERT INTO vet_specialties VALUES (5, 1);
 INSERT INTO vet_specialties VALUES (7, 1);
 
 INSERT INTO types VALUES (default, 'cat');
-INSERT INTO types VALUES (default, 'clear');
+INSERT INTO types VALUES (default, 'dog');
 INSERT INTO types VALUES (default, 'lizard');
 INSERT INTO types VALUES (default, 'snake');
 INSERT INTO types VALUES (default, 'bird');
